@@ -1,4 +1,4 @@
-# WEB103 Project 1 - MOnster Hunter World Listicle
+# WEB103 Project 1 - Monster Hunter World Listicle
 
 Submitted by: **Richard Rodriguez**
 
@@ -34,9 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Walkthrough](https://github.com/user-attachments/assets/48b610aa-ff75-4a63-ad21-f59ae32a2a4e)
 
-GIF created with **Kap**
+
+GIF created with **SCRE.IO**
 
 ## License
 
