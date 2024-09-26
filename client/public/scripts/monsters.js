@@ -15,10 +15,10 @@ const renderMonsters = async () => {
       const bottomContainer = document.createElement("div");
       bottomContainer.classList.add("bottom-container");
 
-      topContainer.style.backgroundImage = `url(${monster.image})`;
-
       const name = document.createElement("h3");
       name.textContent = monster.name;
+
+      bottomContainer.style.backgroundImage = `url(${monster.image})`;
       bottomContainer.appendChild(name);
 
       const type = document.createElement("p");
