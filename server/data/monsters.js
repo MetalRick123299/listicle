@@ -90,3 +90,5 @@ const monsterData = [
       "https://static.wikia.nocookie.net/monsterhunter/images/6/6b/MHRise-Anjanath_Render_001.png/revision/latest?cb=20210308144806",
   },
 ];
+
+export default monsterData;

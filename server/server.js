@@ -1,9 +1,12 @@
 import express from "express";
+import monstersRouter from "./routes/monsters.js";
 
 const app = express();
 
 app.use("/public", express.static("./public"));
 app.use("/scripts", express.static("./public/scripts"));
+
+app.use("/monsters", monstersRouter);
 
 app.get("/", (req, res) => {
   res
