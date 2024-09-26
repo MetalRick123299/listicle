@@ -46,4 +46,11 @@ const renderMonsters = async () => {
     mainContent.appendChild(message);
   }
 };
-renderMonsters();
+
+const requestedUrl = window.location.href.split("/").pop();
+
+if (requestedUrl) {
+  window.location.href = "../404.html";
+} else {
+  renderMonsters();
+}
