@@ -33,6 +33,9 @@ Here's a walkthrough of implemented required features:
 
 [Walkthrough](https://github.com/user-attachments/assets/48b610aa-ff75-4a63-ad21-f59ae32a2a4e)
 
+![Railway](https://github.com/user-attachments/assets/7990d5b1-ee95-4b16-98fb-4089923842d9)
+
+
 GIF created with **SCRE.IO**
 
 ## License
